@@ -76,6 +76,7 @@ namespace WSIntegracion_Macal.BE
         #region Init
         private void init()
         {
+
             // agregar parametros
         }
         #endregion

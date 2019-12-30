@@ -16,7 +16,7 @@ namespace WSIntegracion_Macal
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormMacal());
+           Application.Run(new FormMacal());
         }
     }
 }
